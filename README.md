@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning Techniques
+Deep Learning Projects
